@@ -30,4 +30,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/EzequielAbade/EzequielAbade/blob/output/github-contribution-grid-snake.svg)
+
